@@ -1,0 +1,53 @@
+
+Bitbucket
+
+D:\tokoo>git --version
+
+)> ini buat bikin  echo data di dalam file readme.md
+	D:\tokoo>echo "ini toko Nessa" >> readme.md
+
+)> u/inisialisasi
+	D:\tokoo>git init
+
+)> untuk memasukan folder dan anak anaknya ke dalam suatu folder
+	D:\tokoo>git add .
+
+)> U/tambah command
+	D:\tokoo>git commit -m "add readme.md"
+
+)>
+	D:\tokoo>git remote add origin https://github.com/LieAnne/tokoo.git
+
+)>
+	D:\tokoo>git push -u origin master
+
+selsaii
+
+
+klo mau buka visual codenya bisa ketik titik bisa di ganti nama folder
+D:\tokoo>code .
+
+
+pull	 
+commit
+push
+
+--UPLOAD--
+1) 	Commit dulu bisa di rename
+2)	Push (buat upload)
+
+
+
+)> buat cloning bikin folder baru  terus  
+	D:\New folder>git clone https://github.com/LieAnne/tokoo.git
+		ATAU
+	D:\New folder>git clone ISI DENGAN LINK YANG MAU DI CLONE
+
+)> ???
+	D:>\New Folder>git fetch
+
+)> u/narik
+	git pull 
+1) commit
+2) push
+3)
