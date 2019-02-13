@@ -7,5 +7,10 @@
 </head>
 <body>
     <H1>INI pake git</H1>
+    <? php
+        for($i=0; $ < 5; i++){
+            echo("for $i");
+        }
+    ?>
 </body>
 </html>
